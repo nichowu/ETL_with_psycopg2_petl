@@ -1,0 +1,7 @@
+{
+    "host": "localhost",
+    "dbname": "etldemo",
+    "port": 5432,
+    "user": "postgres",
+    "password": "401198wsQ@"
+}
